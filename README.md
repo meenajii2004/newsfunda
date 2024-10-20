@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the new application based on react funtion based component , it made with the help of news api .
 
 ## Available Scripts
 
